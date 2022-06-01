@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Intermodular Linking Test Module 1</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m56736</md:content-id>
+  <md:title>Intermodular Linking Test Module 1</md:title>
+  <md:abstract/>
+  <md:uuid>c13743af-a674-4010-8e2b-34579c22362b</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="eip-id1170664158092"><media id="eip-id1170665631713" alt="all the ramens"><image mime-type="image/jpeg" src="../../media/RAMEN.jpg"/></media></figure></para><example id="eip-920"><para id="eip-388">
+  Insert Example Text Here
+</para>
+</example><table id="eip-280" summary="--">
+<tgroup cols="3"><tbody>
+  <row>
+    <entry>(1,1)</entry>
+    <entry>(1,2)</entry>
+    <entry>(1,3)</entry>
+  </row>
+  <row>
+    <entry>(2,1)</entry>
+    <entry>(2,2)</entry>
+    <entry>(2,3)</entry>
+  </row>
+  <row>
+    <entry>(3,1)</entry>
+    <entry>(3,2)</entry>
+    <entry>(3,3)</entry>
+  </row>
+</tbody>
+</tgroup>
+</table></content>
+
+</document>

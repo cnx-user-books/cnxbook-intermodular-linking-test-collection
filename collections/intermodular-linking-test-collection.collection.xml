@@ -1,0 +1,53 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11841</md:content-id>
+  <md:title>Intermodular Linking Test Collection</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>daaa3c45-fd63-4a4b-a259-a07d558cfa00</md:uuid>
+<md:slug>intermodular-linking-test-collection</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Intermodular Linking Test Chapter</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56736"/>
+        
+      
+    
+    
+      <col:module document="m56737"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m45083"/>
+        
+      
+    
+  </col:content>
+</col:collection>
